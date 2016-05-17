@@ -1,4 +1,4 @@
-group 'com.teamtreehouse'
+group 'com.adhyan'
 version '1.0-SNAPSHOT'
 
 buildscript {
@@ -13,7 +13,6 @@ buildscript {
 apply plugin: 'java'
 apply plugin: 'spring-boot'
 
-sourceCompatibility = 1.5
 
 repositories {
     mavenCentral()
